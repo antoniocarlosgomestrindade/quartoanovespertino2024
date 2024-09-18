@@ -1,1 +1,1 @@
-print("ola mundo")
+print("puts, ola mundo")
